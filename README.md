@@ -1,1 +1,3 @@
 # practiceChatApp
+
+## Nest + PostgreSQL
